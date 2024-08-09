@@ -6,7 +6,7 @@ This project is a full-stack web application designed for managing products, cat
 ## Features
 
 ### User
-- Perform CRUDS (Create, Read, Update, Delete, Search) operations on products.
+- Perform CRUDS (Create, Read, Update, Delete) operations on products.
 - Add, view, and remove items from the wishlist.
 
 ### Admin
