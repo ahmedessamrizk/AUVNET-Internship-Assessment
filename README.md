@@ -57,5 +57,5 @@ This project is a full-stack web application designed for managing products, cat
 - **bcryptjs** - for hashing passwords.
 - **nodemailer** - for sending emails to users.
 - **yup** - for schema-based validation of request data.
-- 
+  
 [Postman documentation](https://drive.google.com/file/d/1aYHXedqTW0Np5a2dY0W9XYmzOFa55JQW/view?usp=sharing)
