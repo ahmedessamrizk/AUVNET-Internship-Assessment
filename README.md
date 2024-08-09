@@ -3,6 +3,9 @@
 ## Overview
 This project is a full-stack web application designed for managing products, categories, and user roles with distinct access levels. It includes functionalities for users, admins, and super admins, with secure authentication and authorization mechanisms.
 
+## Live demo
+-----------------------------------------
+
 ## Features
 
 ### User
@@ -37,7 +40,7 @@ This project is a full-stack web application designed for managing products, cat
 - Data validation is handled by the `yup` library on both the frontend and backend.
 
 ## ERD
-![Your Image Description](https://drive.google.com/uc?export=view&id=1rxh7-thWvekmOD-j3CR4AKlxy3KRjYRc)
+![ERD](https://drive.google.com/uc?export=view&id=1rxh7-thWvekmOD-j3CR4AKlxy3KRjYRc)
 
 ## Technologies Used
 
@@ -54,3 +57,5 @@ This project is a full-stack web application designed for managing products, cat
 - **bcryptjs** - for hashing passwords.
 - **nodemailer** - for sending emails to users.
 - **yup** - for schema-based validation of request data.
+#### Postman documentation
+[Postman documentation](https://drive.google.com/file/d/1aYHXedqTW0Np5a2dY0W9XYmzOFa55JQW/view?usp=sharing)
