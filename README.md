@@ -37,7 +37,7 @@ This project is a full-stack web application designed for managing products, cat
 - Data validation is handled by the `yup` library on both the frontend and backend.
 
 ## ERD
-![alt text]([URL](https://drive.google.com/file/d/1rxh7-thWvekmOD-j3CR4AKlxy3KRjYRc/view?usp=sharing))
+![alt text](https://drive.google.com/file/d/1rxh7-thWvekmOD-j3CR4AKlxy3KRjYRc/view?usp=sharing)
 
 ## Technologies Used
 
